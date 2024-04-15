@@ -1,4 +1,4 @@
-<img src="./portada.jpg" width="100" height="100">
+<img src="./portada.jpg" width="1000" height="500">
 # 💫 Acerca de mi:
 Me encanta trabajar en proyectos desafiantes donde puedo aplicar mis habilidades en ciencia de datos para resolver problemas del mundo real. Mi experiencia incluye el desarrollo de modelos predictivos, machine learning, análisis estadístico y la creación de dashboards interactivos para comunicar resultados de manera efectiva.<br><br>Mi formación en ciencias de la computación y matemáticas me permite abordar problemas de distintas areas desde diferentes perspectivas y encontrar soluciones innovadoras.
 
